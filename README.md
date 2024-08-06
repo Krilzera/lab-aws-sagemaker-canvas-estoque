@@ -45,3 +45,10 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+
+### ANALISE
+
+- Com base os indicadores e dados utilizados. Tive dificuldades no entendimento de algumas metricas e configurações, não obtive o resultado esperado, acredito ter identificado o erro, se for outro e poderem me responder, eu agradeço.
+
+- Percentual de erro e variação dos valores, está elevado, pode ser a configuração na Build, seguido de um treino feito com quick build. Pela quantidade de dados, acredito que uma analise no started build seria viavel, a ponto de verificar, se realmente este é o fator de estar elevado o Mape e Wape.
